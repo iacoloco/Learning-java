@@ -23,6 +23,7 @@ public class HelloWorld {
       studentGpa = input.nextDouble();
 
       System.out.println(studentFirstName + " " + studentLastInitial + "has " + studentGpa);
+      System.out.println(studentFirstName + " " + studentLastInitial + "has " + studentGpa);
 
 
     }
