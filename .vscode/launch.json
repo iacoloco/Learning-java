@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenOddChecker",
+            "request": "launch",
+            "mainClass": "EvenOddChecker",
+            "projectName": "Learning Java_2947d6e8"
+        },
+        {
+            "type": "java",
+            "name": "Challenge1",
+            "request": "launch",
+            "mainClass": "Challenge1",
+            "projectName": "Learning Java_2947d6e8"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "Learning Java_2947d6e8"
+        },
+        {
+            "type": "java",
             "name": "FlowControl",
             "request": "launch",
             "mainClass": "FlowControl",
